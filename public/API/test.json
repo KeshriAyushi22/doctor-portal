@@ -1,0 +1,24 @@
+{
+  "responseData": {
+    "doctorList": [
+      {
+        "name": "The Birds",
+        "image": "/Slices/poster1.jpg",
+        "qual": "MBBS",
+        "info": "Speciality in xyz to be displayed"
+      },
+      {
+        "name": "Rear Window",
+        "image": "/Slices/poster1.jpg",
+        "qual": "MBBS",
+        "info": "Speciality in xyz to be displayed"
+      },
+      {
+        "name": "The Birds",
+        "image": "/Slices/poster3.jpg",
+        "qual": "MBBS",
+        "info": "Speciality in xyz to be displayed"
+      }
+    ]
+  }
+}
